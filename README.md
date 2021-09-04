@@ -35,7 +35,8 @@ docker-compose up -d
 
 Caio Souza <https://github.com/caio-vinicius>
 
-Fork and inspiration all heavy lift from:
+Fork and inspiration, basically all heavy lift from these guys:
 
 Kyle Harding <https://klutchell.dev> [Buy he a beer](https://buymeacoffee.com/klutchell) https://github.com/klutchell/mediaserver
+
 PARC6502 <https://github.com/PARC6502> https://github.com/PARC6502/docker-media-server
